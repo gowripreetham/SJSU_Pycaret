@@ -16,10 +16,9 @@
 
 ### TimeSeries - https://colab.research.google.com/drive/1Vs118gEYL99Chd8eY6kgUbtP-X0S6A-n
 
-### Gradio + Pycaret Regression - https://colab.research.google.com/drive/1MrrJHiM6JiDdhTVjP9OZaLIwrWHvSQRz
+### Gradio + Pycaret Regression - https://colab.research.google.com/drive/1K05KCUWjIIo0cOYM2WVQfjzda0qS021Q
 
-### Gradio + Pycaret TimeSeries - https://colab.research.google.com/drive/1pLkvmr4XEIlI5HShTE2j4qr6kuSDECkb
-
+### Gradio + Pycaret TimeSeries - https://colab.research.google.com/drive/18l7lytX4m6V6-VSmrBhmEq8Ci9vDXiyT#scrollTo=wDJg-lXuCigA
 
 
 
