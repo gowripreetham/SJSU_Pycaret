@@ -21,6 +21,11 @@
 ### Gradio + Pycaret TimeSeries - https://colab.research.google.com/drive/18l7lytX4m6V6-VSmrBhmEq8Ci9vDXiyT#scrollTo=wDJg-lXuCigA
 
 
+## Links to the YouTube videos - (Playlist of all the Pycaret Colabs)
+
+### https://www.youtube.com/playlist?list=PL2Ns_CyEL-sZ1LPXSlxJ6jlEDJNdhO7St
+
+
 
 
 
